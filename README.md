@@ -9,5 +9,5 @@ This calculator is a graphical program built using Processing that allows users 
 ![running calculator](https://github.com/langaricaalli37/portfolio/blob/main/images/calc16.png?raw=true)
 
 * [Windows EXE](https://github.com/langaricaalli37/portfolio/blob/main/src/Calculator/windows-amd64.zip)
-* [MacOSX](https://github.com/langaricaalli37/portfolio/blob/main/src/Calculator/macos-aarch64.zip)
+* [MacOSX](https://github.com/langaricaalli37/portfolio/blob/main/src/Calculator/macos-x86_64.zip)
 * [Source Code](https://github.com/langaricaalli37/portfolio/tree/main/src/Calculator/Calculator)
