@@ -11,3 +11,4 @@ This calculator is a graphical program built using Processing that allows users 
 * [Windows EXE](https://github.com/langaricaalli37/portfolio/tree/main/src/Calculator/windows-amd64)
 * [MacOSX](https://github.com/langaricaalli37/portfolio/blob/main/src/Calculator/macos-x86_64.zip)
 * [Source Code](https://github.com/langaricaalli37/portfolio/tree/main/src/Calculator/Calculator)
+*  [UML](https://github.com/langaricaalli37/portfolio/blob/main/images/calculator%20UML.jpg?raw=true)
