@@ -14,27 +14,7 @@ This calculator is a graphical program built using Processing that allows users 
 *  [UML](https://github.com/langaricaalli37/portfolio/blob/main/images/calculator%20UML.jpg?raw=true)
 
 
-
 ## Garden Pacman (2025)
-
-description:
-
-![running ifstructure]()
-
-* [windows EXE] ()
-* [MacOSX] ()
-* [source code] 
-*[UML] ()
-
-
-
-
-
-
-
-
-
-## if structure (2025)
 
 description:
 
@@ -58,7 +38,6 @@ description:
 *[UML] ()
 
 
-
 ## shape_game (2025)
 
 description:
@@ -69,8 +48,6 @@ description:
 * [MacOSX] ()
 * [source code] 
 *[UML] ()
-
-
 
 
 ## BallBounce (2025)
