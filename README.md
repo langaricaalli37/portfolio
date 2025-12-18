@@ -12,3 +12,44 @@ This calculator is a graphical program built using Processing that allows users 
 * [MacOSX](https://github.com/langaricaalli37/portfolio/blob/main/src/Calculator/macos-x86_64.zip)
 * [Source Code](https://github.com/langaricaalli37/portfolio/tree/main/src/Calculator/Calculator)
 *  [UML](https://github.com/langaricaalli37/portfolio/blob/main/images/calculator%20UML.jpg?raw=true)
+
+
+## if structure (2025)
+
+description:
+
+![running ifstructure]()
+
+* [windows EXE] ()
+* [MacOSX] ()
+* [source code] 
+*[UML] ()
+
+
+##   MakingCars (2025)
+
+description:
+
+![running ifstructure]()
+
+* [windows EXE] ()
+* [MacOSX] ()
+* [source code] 
+*[UML] ()
+
+
+
+## shape_game (2025)
+
+description:
+
+![running ifstructure]()
+
+* [windows EXE] ()
+* [MacOSX] ()
+* [source code] 
+*[UML] ()
+
+
+
+
